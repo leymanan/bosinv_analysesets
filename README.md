@@ -7,3 +7,5 @@ Test-fase waarbij we in deze (tijdelijke) data-repo voor elke analyse de analyse
 Dit in kader van versiebeheer.
 
 Indien bliljkt dat er teveel redundante tabellen aangemaakt worden, stappen we over naar een geoptimaliseerde data-repo met daarin alle nodige en geoptimaliseerde tabellen voor de analyses (== datawarehouse gemaakt van de analysedatabank)  (= scenario C)
+
+Analysesets worden ondergebracht in folders cfr. folderstructuur scripts meetvragen
